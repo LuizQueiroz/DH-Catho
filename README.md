@@ -1,4 +1,4 @@
-### Projeto de Mineração de Dados: Site Catho 💼
+## Projeto de Mineração de Dados: Site Catho 💼
 
 ### Contexto
 Em um cenário onde o mercado de trabalho é dinâmico e competitivo, o acesso a informações precisas sobre vagas de emprego é de extrema importância tanto para candidatos quanto para empresas. Sites de vagas de emprego contêm uma riqueza de informações, desde a descrição de cargos até tendências de contratação e requisitos específicos da indústria.
